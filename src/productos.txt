@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "timestamp": "01-07-2022",
+        "nombre": "Placa de Video",
+        "descripcion": "GTX 1660 Super",
+        "codigo": 5,
+        "foto": "logo.png",
+        "precio": 120000,
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "timestamp": "01-08-2022",
+        "nombre": "Placa de Video",
+        "descripcion": "RTX 3070 TI",
+        "codigo": 7,
+        "foto": "logo.png",
+        "precio": 190000,
+        "stock": 10
+    }
+]
